@@ -1,3 +1,6 @@
+# DEMO
+https://drive.google.com/file/d/1x0jcUui6NOF76Co_l919iBzmCx2jTbQp/view?usp=drive_link
+
 # SplitScan
 SplitScan is a SwiftUI iOS app that simplifies splitting restaurant bills for groups. It uses OCR to scan receipts, extracts line items, assigns costs to participants, calculates individual totals, and generates shareable PDF payment summaries for easy reimbursement.
 
